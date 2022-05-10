@@ -5,4 +5,4 @@
 
 🎓 Currently in 3rd year of a bachelor in Web development at IIM PARIS.
 
-✨ Fullstack Web Developer
+✨ Fullstack Web Developer at Aubay
